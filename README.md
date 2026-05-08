@@ -26,7 +26,11 @@ This repository contains SageMath code and LaTeX source for Paper 3 of the Hodge
 - `zoe_invariant.sage`: Computes Z(A) and verifies rank ≤ Z·g for all 339 cases
 - `zoe_data.csv`: LMFDB labels + Z(A) values
 - 
-**License**: MIT
+## License
+
+**Paper**: [CC BY 4.0](./LICENSE-CC-BY-4.0) 
+
+**Code**: [MIT License](./LICENSE)
 ### Companion Papers
 - **Paper 1**: `hodge-cm-recurrence` — Special case Z=1
 - **Paper 2**: `hodge-rank-obstructions` — Counterexamples when using Z=1 for p≥2
